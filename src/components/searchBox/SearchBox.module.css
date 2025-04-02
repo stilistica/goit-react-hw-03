@@ -1,17 +1,18 @@
 .container {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 .container p {
-    margin: 0;
+  margin: 0;
 }
 .container input {
-    box-sizing: border-box;
-    border: 2px solid #959494;
-    border-radius: 5px;
-    width: 250px;
-    height: 20px;
-    padding: 10px;
+  box-sizing: border-box;
+  border: 2px solid #959494;
+  border-radius: 5px;
+  width: 250px;
+  height: 20px;
+  padding: 10px;
 }
-.container input:focus, .container input:hover {
-    border: 2px solid black;
+.container input:focus,
+.container input:hover {
+  border: 2px solid black;
 }
